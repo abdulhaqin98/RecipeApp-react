@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/RecipeApp_react/static/css/main.c213a077.chunk.css",
-    "main.js": "/RecipeApp_react/static/js/main.f0d73425.chunk.js",
-    "main.js.map": "/RecipeApp_react/static/js/main.f0d73425.chunk.js.map",
-    "runtime-main.js": "/RecipeApp_react/static/js/runtime-main.a9977906.js",
-    "runtime-main.js.map": "/RecipeApp_react/static/js/runtime-main.a9977906.js.map",
-    "static/js/2.abf01545.chunk.js": "/RecipeApp_react/static/js/2.abf01545.chunk.js",
-    "static/js/2.abf01545.chunk.js.map": "/RecipeApp_react/static/js/2.abf01545.chunk.js.map",
-    "index.html": "/RecipeApp_react/index.html",
-    "precache-manifest.3e76b337c81629edbbde4a2be0b81228.js": "/RecipeApp_react/precache-manifest.3e76b337c81629edbbde4a2be0b81228.js",
-    "service-worker.js": "/RecipeApp_react/service-worker.js",
-    "static/css/main.c213a077.chunk.css.map": "/RecipeApp_react/static/css/main.c213a077.chunk.css.map",
-    "static/js/2.abf01545.chunk.js.LICENSE.txt": "/RecipeApp_react/static/js/2.abf01545.chunk.js.LICENSE.txt"
+    "main.css": "/RecipeApp-react/static/css/main.c213a077.chunk.css",
+    "main.js": "/RecipeApp-react/static/js/main.041f3270.chunk.js",
+    "main.js.map": "/RecipeApp-react/static/js/main.041f3270.chunk.js.map",
+    "runtime-main.js": "/RecipeApp-react/static/js/runtime-main.76b706de.js",
+    "runtime-main.js.map": "/RecipeApp-react/static/js/runtime-main.76b706de.js.map",
+    "static/js/2.fabfa642.chunk.js": "/RecipeApp-react/static/js/2.fabfa642.chunk.js",
+    "static/js/2.fabfa642.chunk.js.map": "/RecipeApp-react/static/js/2.fabfa642.chunk.js.map",
+    "index.html": "/RecipeApp-react/index.html",
+    "precache-manifest.e17a4e1c4e4401b6907ea6645c724275.js": "/RecipeApp-react/precache-manifest.e17a4e1c4e4401b6907ea6645c724275.js",
+    "service-worker.js": "/RecipeApp-react/service-worker.js",
+    "static/css/main.c213a077.chunk.css.map": "/RecipeApp-react/static/css/main.c213a077.chunk.css.map",
+    "static/js/2.fabfa642.chunk.js.LICENSE.txt": "/RecipeApp-react/static/js/2.fabfa642.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.a9977906.js",
-    "static/js/2.abf01545.chunk.js",
+    "static/js/runtime-main.76b706de.js",
+    "static/js/2.fabfa642.chunk.js",
     "static/css/main.c213a077.chunk.css",
-    "static/js/main.f0d73425.chunk.js"
+    "static/js/main.041f3270.chunk.js"
   ]
 }
